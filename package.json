@@ -1,0 +1,22 @@
+{
+  "name": "evaluating-parse-server-on-heroku",
+  "version": "1.0.0",
+  "description": "Evaluating Parse Server on Heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mortezaalizadeh/EvaluatingParseServerOnHeroku.git"
+  },
+  "author": "Morteza Alizadeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mortezaalizadeh/EvaluatingParseServerOnHeroku/issues"
+  },
+  "homepage": "https://github.com/mortezaalizadeh/EvaluatingParseServerOnHeroku#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}

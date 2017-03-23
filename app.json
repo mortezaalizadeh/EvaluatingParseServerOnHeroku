@@ -1,0 +1,6 @@
+{
+  "name": "Evaluating Parse Server on Heroku",
+  "description": "Evaluating Parse Server on Heroku using Express",
+  "repository": "https://github.com/mortezaalizadeh/EvaluatingParseServerOnHeroku.git",
+  "image": "heroku/nodejs"
+}
