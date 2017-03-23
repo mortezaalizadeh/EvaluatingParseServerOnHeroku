@@ -12,6 +12,8 @@ const IS_DEVELOPMENT = process.env.NODE_ENV !== 'production';
 const DASHBOARD_AUTH = process.env.DASHBOARD_AUTH;
 const DATABASE_URI = process.env.DATABASE_URI || 'mongodb://localhost:27017/dev';
 
+console.log('Connecting to database: ', DATABASE_URI);
+
 const server = express();
 
 server.set('port', SERVER_PORT);
