@@ -49,7 +49,7 @@ server.use(
             appName: 'my-test-app',
         }],
         users,
-    }, IS_DEVELOPMENT),
+    }, true),
 );
 
 
